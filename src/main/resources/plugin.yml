@@ -1,0 +1,6 @@
+name: CopyEye
+version: '${version}'
+main: com.koyeyu.copyeye.CopyEye
+api-version: 1.19
+commands:
+  copyeye:
